@@ -4,7 +4,7 @@ stochastic entity of financial processes. Most of the applications of deep neura
 prediction but our goal is to utilize Generative Adversarial Networks (GANs) to build a model which generates realistic
 financial time series. As a criterion of how much these generated time series resemble the real data, one can check
 whether the model is able to reproduce a set of well-known statistical characteristics of real financial data, or so-called
-Stylized Facts IV-A. Stylized facts are robust empirical regularities one can observe when studying financial data. They
+Stylized Facts. Stylized facts are robust empirical regularities one can observe when studying financial data. They
 are key indicators of economic behavior and can provide valuable insights into the underlying mechanisms that drive
 the economy. By implementing a Wasserstein Generative Adversarial Network(WGAN) and using different models for
 the generator and discriminator, we are able to, up to some degree, reproduce the stylized facts. To further work on

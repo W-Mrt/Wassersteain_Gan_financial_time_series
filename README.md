@@ -10,4 +10,3 @@ the economy. By implementing a Wasserstein Generative Adversarial Network(WGAN) 
 the generator and discriminator, we are able to, up to some degree, reproduce the stylized facts. To further work on
 this route, one can consider expanding the database in terms of using more significant features. Deeper networks can
 also be implemented hoping to achieve a higher degree of similarity between generated and real financial data.
-(Project for the exam of Neural Network and Deep Learning)

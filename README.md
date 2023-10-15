@@ -1,4 +1,4 @@
-# Wassersteain_Gan_financial_time_series
+# Wasserstein_Gan_financial_time_series
 Financial time-series modeling has been a demanding problem since one should consider the convoluted and
 stochastic entity of financial processes. Most of the applications of deep neural networks focus on price or volatility
 prediction but our goal is to utilize Generative Adversarial Networks (GANs) to build a model which generates realistic
